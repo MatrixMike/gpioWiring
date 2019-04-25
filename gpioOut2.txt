@@ -1,0 +1,19 @@
+gpio: Usage: gpio -v
+       gpio -h
+       gpio [-g|-1] [-x extension:params] ...
+       gpio [-p] <read/write/wb> ...
+       gpio <read/write/aread/awritewb/pwm/clock/mode> ...
+       gpio readall/reset
+       gpio unexportall/exports
+       gpio export/edge/unexport ...
+       gpio wfi <pin> <mode>
+       gpio drive <group> <value>
+       gpio pwm-bal/pwm-ms 
+       gpio pwmr <range> 
+       gpio pwmc <divider> 
+       gpio load spi/i2c
+       gpio unload spi/i2c
+       gpio i2cd/i2cdetect
+       gpio usbp high/low
+       gpio gbr <channel>
+       gpio gbw <channel> <value>

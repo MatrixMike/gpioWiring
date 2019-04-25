@@ -1,0 +1,7 @@
+gpio version: 2.26
+Copyright (c) 2012-2015 Gordon Henderson
+This is free software with ABSOLUTELY NO WARRANTY.
+For details type: gpio -warranty
+
+Raspberry Pi Details:
+  Type: Model B, Revision: 2, Memory: 512MB, Maker: Egoman 
